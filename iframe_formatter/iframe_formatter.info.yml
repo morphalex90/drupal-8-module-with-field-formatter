@@ -1,0 +1,5 @@
+name: Iframe Formatter
+type: module
+description: Formatter for an embed url to a complete iframe
+core: 8.x
+package: morphalex90

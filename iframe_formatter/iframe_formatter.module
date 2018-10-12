@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function iframe_formatter_theme() {
+  return array(
+    'make_iframe_formatter' => array(
+      'variables' => array('value' => NULL),
+      'template' => 'make-iframe-formatter',
+    ),
+  );
+}
